@@ -3,6 +3,14 @@
     {
       "name": "Bread",
       "id": 2
+    },
+    {
+      "name": "Milk",
+      "id": 3
+    },
+    {
+      "name": "Water",
+      "id": 5
     }
   ]
 }
